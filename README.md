@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabeCloud94
-- 👀 I’m interested in front end web development and guitars!
-- 🌱 I’m currently learning JavaScript and React.
-- 💞️ I’m looking to collaborate on projects involving Front End development.
+- 👀 I have a passion for front end web development!
+- 🌱 I’m always improving my coding skills to remain up-to-date with the newest technology.
+- 💞️ I’m looking to join a friendly, goal-driven team as a front end developer.
 - 📫 How to reach me: email - gabecloud94@gmail.com
 
 <!---
